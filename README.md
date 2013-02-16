@@ -13,4 +13,5 @@ Add this to the /etc/ppp/options file
   ldap_pwd secret
   ldap_timeout 30
   
+  
   Plz, do not hestitate to write about found bugs and sugesstions
